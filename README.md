@@ -31,11 +31,11 @@
 - 게시물 상세 조회
 - 게시물 수정
 - 나의 게시물 조회
-
-   
     
       
-
+    
+          
+   
 ## 제노 작업 내용
 [제노 Github](https://github.com/duckbill413)
 - Spring Security와 JWT를 이용한 로그인 구현
